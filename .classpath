@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib"/>
+	<classpathentry kind="lib" path="/Users/ravishankar/Desktop/Projects/jars/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ravishankar/Desktop/Projects/jars/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/Users/ravishankar/Desktop/Projects/jars/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/Users/ravishankar/Desktop/Projects/jars/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/Users/ravishankar/Desktop/Projects/jars/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/Users/ravishankar/Desktop/Projects/jars/jersey-bundle-1.12.jar"/>
+	<classpathentry kind="lib" path="/Users/ravishankar/Desktop/Projects/jars/jersey-client-1.12.jar"/>
+	<classpathentry kind="lib" path="/Users/ravishankar/Desktop/Projects/jars/jersey-core-1.12.jar"/>
+	<classpathentry kind="lib" path="/Users/ravishankar/Desktop/Projects/jars/jersey-json-1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/ravishankar/Desktop/Projects/jars/jersey-json-1.12.jar"/>
+	<classpathentry kind="lib" path="/Users/ravishankar/Desktop/Projects/jars/jersey-server-1.12.jar"/>
+	<classpathentry kind="lib" path="/Users/ravishankar/Desktop/Projects/jars/jersey-servlet-1.12.jar"/>
+	<classpathentry kind="lib" path="/Users/ravishankar/Desktop/Projects/jars/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ravishankar/Desktop/Projects/jars/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/lib/tools.jar"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER/GWT (3)"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
